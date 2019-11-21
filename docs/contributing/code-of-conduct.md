@@ -4,7 +4,7 @@
 
 ## 我們的承諾
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+為了培育一個開放且友善的環境，我們以貢獻者及維護者的身份宣誓：無論年齡、體型、身體健全與否、民族、性別認同與表徵、經驗水平、教育程度、社會地位、國籍、相貌、種族、宗教信仰、性身份和性傾向，我們會讓專案及社群的參與者免於來自任何人的騷擾。
 
 ## 我們的標準
 
