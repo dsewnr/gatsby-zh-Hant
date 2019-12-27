@@ -8,7 +8,7 @@
 
 ## 我們的標準
 
-Examples of behavior that contributes to creating a positive environment include:
+創造正面的環境的貢獻行為例子包括有：
 
 - Using welcoming and inclusive language
 - Being respectful of differing viewpoints and experiences
